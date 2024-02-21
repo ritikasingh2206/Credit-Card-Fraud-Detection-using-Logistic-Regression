@@ -20,11 +20,6 @@ This project aims to detect fraudulent transactions in credit card data using lo
 - seaborn
 - scikit-learn
 
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/your_username/credit-card-fraud-detection.git`
-2. Install the dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter notebook: `jupyter notebook`
 
 ## Results
 
